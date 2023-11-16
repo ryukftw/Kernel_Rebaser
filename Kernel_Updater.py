@@ -3,7 +3,7 @@ import os
 
 # Variables - Changable
 KERNEL_VERSION = "4.14" # Set Kernel Version (4.4/4.14/4.19)
-KERNEL_TAG = "LA.UM.10.2.1.r1-03800-sdm660.0" # Set CAF Tag / Upstream Version (LA.UM.10.2.1.r1-0300-sdm660.0/v4.19.157)
+KERNEL_TAG = "LA.UM.9.1.r1-14600-SMxxx0.QSSI14.0" # Set CAF Tag / Upstream Version (LA.UM.10.2.1.r1-0300-sdm660.0/v4.19.157)
 REPO_LINK = "https://github.com/builder1206/msm-4.14" # Repo link to pull/fetch/push Kernel
 BASE_BRANCH = "base" # Base branch to pick the old/device base changes from
 
